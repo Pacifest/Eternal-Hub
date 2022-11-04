@@ -10,15 +10,6 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 -This game is mostly children.
 4. Use any form of Dump, http/remote spy.
  
-## Staff:
-1. The staff are allowed to modify your character in any way.
-2. The staff are allowed to log your Information (Discord ID & IP)
-
-## Blacklisting:
-1. You can be blacklisted for using/running another script.
-2. You can be blacklisted at any time the staff desires.
-3. If you break any of the TOS.
-
 ## Script:
 1. This script is allowed to log your user ID (Discord & Roblox).
 2. This script is allowed to log the chat.
@@ -28,12 +19,24 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 ## Your Information:
 1. Your information is used to improve the script & make it better.
 2. Your information helps us to improve our terms of service.
- 
+3. Your information is private & can only be seen by staff.
+
 ## We - General:
 1. We are allowed to change the price of VIP at any time.
 2. We *will not* give refunds for VIP.
-3. We can blacklist, kick, & and ban you from the Discord and Script at any time.
- 
+3. We not give out any information obtained from you.
+4. We can blacklist, kick, & and ban you from the Discord and Script at any time.
+
+## Staff:
+1. The staff are allowed to modify your character in any way.
+2. The staff are allowed to log your Information (Discord ID & IP)
+
+## Blacklisting:
+1. You can be blacklisted for using/running another script.
+2. You can be blacklisted at any time the staff desires.
+3. If you break any of the TOS.
+
 ## Other - Information:
 1. The script can be patched at any time & anyone who bought VIP *will not* get a refund.
 2. VIP is allowed for two accounts, alt & main, main & friend, only main, etc.
+
