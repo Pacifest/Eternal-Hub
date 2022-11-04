@@ -6,7 +6,7 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 1. Claim ownership/state that you made this script.
 2. Use excessive abuse/destroy servers.
 -This includes making the server unplayable
-3. Use/bypass pornography or inappropriate on prompt usage
+3. Use/bypass pornography or inappropriate on prompt usage.
 -This game is mostly children.
 4. Use any form of Dump, http/remote spy.
  
@@ -17,7 +17,7 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 ## Blacklisting:
 1. You can be blacklisted for using/running another script.
 2. You can be blacklisted at any time the staff desires.
-3. If you break any of the TOS
+3. If you break any of the TOS.
 
 ## Script:
 1. This script is allowed to log your user ID (Discord & Roblox).
