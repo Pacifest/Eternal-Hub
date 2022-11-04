@@ -1,3 +1,4 @@
 Version = '2.2'
-Announcement = '+| Major bug fixes & such. VIP Added!'
+Announcement = true
 DiscordInvite = 'https://discord.gg/UEVurn7mbp'
+Announcements = {'[*] Script has been released to the public!','[!] Major bug fixes & such. VIP Added!'}
