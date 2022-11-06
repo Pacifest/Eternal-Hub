@@ -38,5 +38,5 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 
 ## Other - Information:
 1. The script can be patched at any time & anyone who bought VIP *will not* get a refund.
-2. VIP is allowed for two accounts, alt & main, main & friend, only main, etc.
+2. VIP is allowed for all accounts of the person who bought it. - This includes alts but also means it is only for the players PC
 
