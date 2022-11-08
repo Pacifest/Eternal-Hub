@@ -2,4 +2,4 @@ Version = '4.3'
 Announcement = true
 DiscordInvite = 'https://discord.gg/UEVurn7mbp'
 Announcement = 'WOOO! Eternal Hub'
-Updates = {'Official TOS:','https://github.com/Pacifest/Eternal-Hub/blob/main/README.md','[!] Script has been released to the public! [10/31/22]','[*] Major fixes & such. VIP Added! [11/2/22]','[*] More fixes, nothing new [11/3/22]','[R] Tons of fixes, nothing new [11/3/22]','[*] A whole lot of fixes. New VIP Features [11/6/22]','[*] MORE FIXES! Zombie has been re-added [11/7/22]'}
+Updates = {'Official TOS:','https://github.com/Pacifest/Eternal-Hub/blob/main/README.md','[!] Script has been released to the public! [10/31/22]','[*] Major fixes & such. VIP Added! [11/2/22]','[*] More fixes, nothing new [11/3/22]','[R] Tons of fixes, nothing new [11/3/22]','[*] A whole lot of fixes. New VIP Features [11/6/22]','[*] MORE FIXES! Zombie has been re-added [11/7/22]','[*] MORE FIXES!!! Zombie doesn't work with krnl','-Sorry krnl users'}
