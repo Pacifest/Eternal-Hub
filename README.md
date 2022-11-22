@@ -11,7 +11,6 @@ Server invite
 ## You are not allowed to:
 1. Claim ownership/state that you made this script.
 2. Use excessive abuse/destroy servers.
--This includes making the server unplayable
 3. Use/bypass pornography or inappropriate text on any text functions.
 -This game is mostly children.
 4. Use any form of Dump, http/remote spy.
