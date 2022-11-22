@@ -1,4 +1,4 @@
-# Eternal Hub information and TOS
+# Eternal Hub information & TOS
 Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
 
 # TOS
@@ -6,7 +6,7 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 1. Claim ownership/state that you made this script.
 2. Use excessive abuse/destroy servers.
 -This includes making the server unplayable
-3. Use/bypass pornography or inappropriate on prompt usage.
+3. Use/bypass pornography or inappropriate text on any text functions.
 -This game is mostly children.
 4. Use any form of Dump, http/remote spy.
  
@@ -24,12 +24,12 @@ Eternal Hub is a Client-Based GUI with functions made for games to give players 
 ## We - General:
 1. We are allowed to change the price of VIP at any time.
 2. We *will not* give refunds for VIP.
-3. We not give out any information obtained from you.
-4. We can blacklist, kick, & and ban you from the Discord and Script at any time.
+3. We *do not* give out any information obtained from you.
+4. We can blacklist, kick, and ban you from the Discord and Script at any time.
 
 ## Staff:
 1. The staff are allowed to modify your character in any way.
-2. The staff are allowed to log your Information (Discord ID & IP)
+2. The staff are allowed to log your Information. (Discord ID & IP)
 
 ## Blacklisting:
 1. You can be blacklisted for using/running another script.
