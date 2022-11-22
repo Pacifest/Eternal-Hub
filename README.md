@@ -3,8 +3,8 @@
 Server invite
 
 # information & TOS
-Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
-More information can be found on the Wiki or by clicking [here](https://github.com/Pacifest/Eternal-Hub/wiki)
+- Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
+- More information can be found on the Wiki or by clicking [here](https://github.com/Pacifest/Eternal-Hub/wiki)
 
 
 # TOS
