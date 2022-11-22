@@ -1,5 +1,6 @@
 # Eternal Hub
-[![Discord Server](https://cdn.discordapp.com/attachments/959244001234530304/1044466717985869854/dC5wbmc.png)](https://discord.gg/UEVurn7mbp)
+[![Discord Server](https://cdn.discordapp.com/attachments/959244001234530304/1044466955786133564/discordlogoinvite.png)](https://discord.gg/UEVurn7mbp)
+Server invite
 
 # information & TOS
 Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
