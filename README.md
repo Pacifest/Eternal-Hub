@@ -1,4 +1,7 @@
-# Eternal Hub information & TOS
+# Eternal Hub
+[![Discord Server](https://cdn.discordapp.com/attachments/959244001234530304/1044465109264773170/636e0b5493894cf60b300587_full_lo.jpg)](https://discord.gg/UEVurn7mbp)
+
+# information & TOS
 Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
 
 # TOS
