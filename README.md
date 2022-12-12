@@ -1,6 +1,6 @@
-# Eternal Hub
-[![Discord Server](https://cdn.discordapp.com/attachments/959244001234530304/1044466955786133564/discordlogoinvite.png)](http://www.eternaladmin.ml/)
-join our discord server
+# [![EternalAdmin](https://cdn.discordapp.com/attachments/1024130982510600274/1051991850615058513/standard.gif)](http://www.eternaladmin.ml/)
+
+Join our discord server by clicking on gif above
 
 # information & TOS
 - Eternal Hub is a Client-Based GUI with functions made for games to give players a better time.
