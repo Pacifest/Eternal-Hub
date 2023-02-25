@@ -1,9 +1,9 @@
 # READ
 *We - The team*
-Eternal Hub has been discontinued. This project is ended, no longer being worked on and does not work anymore.
-With the deletion of our server we have decided it is no longer fit to resume or start over again.
-Thank you for using Eternal Hub.
-Execute the script to learn more information.
+- Eternal Hub has been discontinued. This project is ended, no longer being worked on and does not work anymore.
+- With the deletion of our server we have decided it is no longer fit to resume or start over again.
+- Thank you for using Eternal Hub.
+- Execute the script to learn more information.
 
 # [![EternalAdmin](https://cdn.discordapp.com/attachments/1024130982510600274/1051991850615058513/standard.gif)](http://www.eternaladmin.ml/)
 
