@@ -3,7 +3,15 @@
 - Eternal Hub has been discontinued. This project is ended, no longer being worked on and does not work anymore.
 - With the deletion of our server we have decided it is no longer fit to resume or start over again.
 - Thank you for using Eternal Hub.
-- Execute the script to learn more information.
+
+- At this point, 3/24/23 as of writing: 12:08 AM.
+- I have decided to release the Eternal Hub source-code for Redwood Prsion.
+- Reasons being:
+1. The game is dying.
+2. There is other people out there trying to dethrone others who use scripts for the game
+3. Every script was horrible made, mine being the only good one.
+4. I have no reason to hold on to the source anylonger as I do exploit anymore or play Redwood Prison whatsoever.
+- You can find the source code under the "Source" file with intructions on how to use it
 
 # [![EternalAdmin](https://cdn.discordapp.com/attachments/1024130982510600274/1051991850615058513/standard.gif)](http://www.eternaladmin.ml/)
 
