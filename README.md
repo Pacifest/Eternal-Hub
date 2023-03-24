@@ -4,6 +4,7 @@
 - With the deletion of our server we have decided it is no longer fit to resume or start over again.
 - Thank you for using Eternal Hub.
 
+# UPDATE SOURCE RELEASE
 - At this point, 3/24/23 as of writing: 12:08 AM.
 - I have decided to release the Eternal Hub source-code for Redwood Prsion.
 - Reasons being:
