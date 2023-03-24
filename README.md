@@ -10,8 +10,8 @@
 - Reasons being:
 1. The game is dying.
 2. There is other people out there trying to dethrone others who use scripts for the game
-3. Every script was horribly made, mine being the only good one.
-4. I have no reason to hold on to the source anylonger as I do exploit anymore or play Redwood Prison whatsoever.
+3. Every script was horribly made with mine being the only good one.
+4. I have no reason to hold on to the source any longer as I do exploit anymore or play Redwood Prison whatsoever.
 - You can find the source code under the "Source" file with intructions on how to use it
 
 # [![EternalAdmin](https://cdn.discordapp.com/attachments/1024130982510600274/1051991850615058513/standard.gif)](http://www.eternaladmin.ml/)
