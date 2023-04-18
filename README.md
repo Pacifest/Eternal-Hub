@@ -11,7 +11,7 @@
 1. The game is dying.
 2. There is other people out there trying to dethrone others who use scripts for the game
 3. Every script was horribly made with mine being the only good one.
-4. I have no reason to hold on to the source any longer as I do exploit anymore or play Redwood Prison whatsoever.
+4. I have no reason to hold on to the source any longer as I do not exploit anymore or play Redwood Prison whatsoever.
 5. Three people that I know of have attempted to clone my kick method, multiple of my things inside this Gui and everything else I made as a side-project. People thought they were copying it from redwood gui by nameless, jalos. But they weren't, It was from mine. 
 
 - You can find the source code under the "Source" file with intructions on how to use it
