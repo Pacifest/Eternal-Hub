@@ -28,5 +28,4 @@
  (&###%%%#&&&&%#%&&#%&&&&&&&&%###(,...                                
  ,&&%&&&&&&&(*(##(*.  ... */,.                   
     (Mil#1522 & Owner#8417)
-    Eternal Hub has been discontinued. Execute to learn more!
 --]]
